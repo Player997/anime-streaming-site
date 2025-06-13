@@ -21,7 +21,7 @@
 
 > Home Page featuring “Jujutsu Kaisen”
 
-![Home Page](./screenshot.png)
+![Home Page](./Screenshot.png)
 
 ---
 
