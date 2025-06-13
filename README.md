@@ -17,10 +17,14 @@
 
 ---
 
-## 📺 Live Demo
+## 📸 Screenshots
 
-👉 **[AnimeMAX](https://your-live-link.com)**  
+> Home Page featuring “Attack on Titan”
+
+![Home Page](./screenshot.png)
+
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -73,7 +77,7 @@ Open your browser and go to 👉 **[http://localhost:5173](http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Aditya Verma**
+**Aditya**
 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-aa8178288/)
 💻 GitHub: [Player997](https://github.com/Player997)
 
