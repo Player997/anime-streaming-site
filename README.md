@@ -6,17 +6,6 @@
   A sleek and responsive anime streaming website UI built with <strong>React</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS</strong>. Perfect for anime lovers and frontend devs looking for clean, modern design.
 </p>
 
-<p align="center">
-  <a href="https://your-live-link.com" target="_blank">
-    🌐 <strong>Live Demo</strong>
-  </a> •
-  <a href="#features">✨ Features</a> •
-  <a href="#installation">🚀 Installation</a> •
-  <a href="#tech-stack">🛠 Tech Stack</a>
-</p>
-
----
-
 ## ✨ Features
 
 - ⚡ Blazing-fast development with **Vite**
@@ -79,4 +68,12 @@ npm run dev
 ```
 
 Open your browser and go to 👉 **[http://localhost:5173](http://localhost:5173)**
+
+---
+
+## 👨‍💻 Author
+
+**Aditya Verma**
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-aa8178288/)
+💻 GitHub: [Player997](https://github.com/Player997)
 
