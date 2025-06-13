@@ -19,7 +19,7 @@
 
 ## 📸 Screenshots
 
-> Home Page featuring “Attack on Titan”
+> Home Page featuring “Jujutsu Kaisen”
 
 ![Home Page](./screenshot.png)
 
